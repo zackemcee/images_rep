@@ -8,7 +8,7 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/zackfair1/images_rep/main/features.txt",
       "sprite": {
-        "imagePath": "https://github.com/zackfair1/images_rep/blob/main/sprite_4_classes.png?raw=true",
+        "imagePath": "https://github.com/zackfair1/images_rep/blob/main/sprite_4_classes.png",
         "singleImageDim": [
           32,
           32
