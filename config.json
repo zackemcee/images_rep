@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/zackfair1/images_rep/main/features.txt",
+      "sprite": {
+        "imagePath": "https://github.com/zackfair1/images_rep/blob/main/sprite_4_classes.png?raw=true",
+        "singleImageDim": [
+          32,
+          32
+        ]
+      },
+      "metadataPath": "https://raw.githubusercontent.com/zackfair1/images_rep/main/metadata_4_classes.tsv"
+    }
+  ]
+}
