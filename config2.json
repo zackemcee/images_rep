@@ -10,7 +10,7 @@
       "sprite": {
         "imagePath": "https://i.ibb.co/tsjs9yK/sprite-4-classes.png",
         "singleImageDim": [
-          'auto'
+          "auto"
         ]
       },
       "metadataPath": "https://raw.githubusercontent.com/zackfair1/images_rep/main/metadata_4_classes.tsv"
